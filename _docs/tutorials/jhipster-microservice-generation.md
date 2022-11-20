@@ -5,7 +5,7 @@ image: /img/cm-og-image.png
 ---
 
 [JHipster](https://www.jhipster.tech/) is a development platform to generate [Spring Boot](https://spring.io/projects/spring-boot) web applications and microservices. Applications
-or microservices, including their Entities and relationships between these Entities, can be specified with the [JHipster Domain Language (JDL)](https://www.jhipster.tech/jdl/).
+or microservices, including their Entities and relationships between these Entities, can be specified with the [JHipster Domain Language (JDL)](https://www.jhipster.tech/jdl/intro).
 The JHipster generator is able to generate code for the microservices (based on the Spring framework and several frontend frameworks) with a JDL file as input.
 
 By providing a JDL template for our [generic generator (templating based on Freemarker)](/docs/generic-freemarker-generator/), we offer a tool to generate microservices from 
@@ -297,7 +297,7 @@ If you run into other problems with the generator, [let us know](https://github.
 
 ## More Links and Resources
  * [JHipster](https://www.jhipster.tech/)
- * [JHipster Domain Language (JDL)](https://www.jhipster.tech/jdl/)
+ * [JHipster Domain Language (JDL)](https://www.jhipster.tech/jdl/intro)
  * [JHipster Microservices](https://www.jhipster.tech/microservices-architecture/)
  * [Context Mapper: Generic Generator (Freemarker Templates)](/docs/generic-freemarker-generator/)
  * [Example model used for this tutorial](https://github.com/ContextMapper/context-mapper-examples/tree/master/src/main/cml/microservice-generation/JDL-example)
